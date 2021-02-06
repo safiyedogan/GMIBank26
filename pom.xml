@@ -115,11 +115,6 @@
             <version>2.14.0</version>
         </dependency>
 
-        <dependency>
-            <groupId>org.apache.log4j</groupId>
-            <artifactId>org.apache.log4j</artifactId>
-            <version>1.2.13.v200706111418</version>
-        </dependency>
 
 
 
